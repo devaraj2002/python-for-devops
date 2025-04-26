@@ -1,0 +1,13 @@
+bash vs python
+  bash: used for simple task for interacting with system and collecting information from linux system
+  python: used for complex tasks. such as
+    interacting with api,writing complex programs, data manuplation
+    ex: to write lambda functions in aws lambda...
+
+
+    
+install python and run simple script
+
+  
+cmd
+python abc.python
